@@ -1,0 +1,154 @@
+*{
+    list-style:none;
+}
+body{
+	background:rgb(148, 143, 143);
+	font-family: Arial;
+}
+#contenido{
+    width: 70%;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align:center;
+    font-family:fantasy;
+    height:100%;
+    width:100%;
+    margin:0px;
+    line-height:100px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+nav{
+    background: rgb(0, 0, 0);
+    height: 50px;
+    border-bottom: 1px solid black;   
+}
+nav ul li{
+	float:left;
+	list-style: none;
+	margin: 10px;
+	line-height: 30px; 
+    min-width: 100px;    
+}
+#listalotengo{
+    float:left;
+    width: calc(80% - 80px);
+    min-height: 500px;
+    background: rgb(66, 60, 60);
+    padding:40px;
+    color: white;    
+}
+#quieroshonen{
+        float:left;
+        width: calc(80% - 80px);
+        min-height: 500px;
+        background: rgb(66, 60, 60);
+        padding:40px;
+        color: white;
+}
+#quieroshojo{
+        float:left;
+        width: calc(80% - 80px);
+        min-height: 500px;
+        background: rgb(66, 60, 60);
+        padding:40px;
+        color: white;
+}
+#quieroseinen{
+        float:left;
+        width: calc(80% - 80px);
+        min-height: 500px;
+        background: rgb(66, 60, 60);
+        padding:40px;
+        color: white;
+}
+#quierospokon{
+        float:left;
+        width: calc(80% - 80px);
+        min-height: 500px;
+        background: rgb(66, 60, 60);
+        padding:40px;
+        color: white;
+}
+aside{
+	float:left;
+	min-height:500px;
+	width:calc(20% - 20px);
+	background:rgb(56, 54, 49);
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+    color:white;
+}
+.clearfix{
+    clear: both;
+}
+	
+footer{
+    background: black;
+	color: white;
+	text-align:center;
+	height: 50px;
+	line-height:50px;   
+}
+.imageneslotengo{
+    height: 80px;
+    width: 50px;
+    float: left; 
+    padding-bottom: 10px;  
+}
+.imagenesloquiero{
+    height: 100px;
+    width: 70px;
+    float: left; 
+    padding-bottom: 10px;
+    padding-right: 10px; 
+}
+ul li{
+    float: left;
+    min-width: 300px;
+}
+#shojo{
+    padding-top: 1px;
+}
+#seinen{
+    padding-top: 450px;
+}
+#Deportes{
+    padding-top: 1100px;
+}
+.linea{
+    border-bottom: 2px solid white;
+}
+.enlacesshonen{
+    color: white;
+    text-decoration:none;       
+}
+.enlacesshonen:hover{    
+    color: rgb(152, 152, 247);
+}
+.enlacesshojo{
+    color: white;
+    text-decoration:none;       
+}
+.enlacesshojo:hover{    
+    color: rgb(152, 152, 247);
+}
+.enlacesseinen{
+    color: white;
+    text-decoration:none;       
+}
+.enlacesseinen:hover{    
+    color: rgb(152, 152, 247);
+}
+.enlacesspokon{
+    color: white;
+    text-decoration:none;       
+}
+.enlacesspokon:hover{    
+    color: rgb(152, 152, 247);
+}
+
